@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nikhilsingh050/npm-package.git"
+    "url": "git+https://github.com/nikhilsingh060/npm-package.git"
   },
   "keywords": [],
   "publishConfig": { "registry": "https://npm.pkg.github.com/" 
@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nikhilsingh050/npm-package/issues"
+    "url": "https://github.com/nikhilsingh060/npm-package/issues"
   },
-  "homepage": "https://github.com/nikhilsingh050/npm-package#readme"
+  "homepage": "https://github.com/nikhilsingh060/npm-package#readme"
 }
