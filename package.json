@@ -1,6 +1,6 @@
 {
-  "name": "@nikhilsingh060/payment_ui",
-  "version": "1.0.0",
+  "name": "@nikhilsingh060/payments_ui",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
